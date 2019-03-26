@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GAPTest", "GAPTest\GAPTest.csproj", "{CD4B1B8D-430B-4AF9-8EFB-9FA22A296A61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIClinica", "APIClinica\APIClinica.csproj", "{9F1CE835-F022-4B17-9782-A4B89721A229}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD4B1B8D-430B-4AF9-8EFB-9FA22A296A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD4B1B8D-430B-4AF9-8EFB-9FA22A296A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD4B1B8D-430B-4AF9-8EFB-9FA22A296A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD4B1B8D-430B-4AF9-8EFB-9FA22A296A61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F1CE835-F022-4B17-9782-A4B89721A229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F1CE835-F022-4B17-9782-A4B89721A229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F1CE835-F022-4B17-9782-A4B89721A229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F1CE835-F022-4B17-9782-A4B89721A229}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ECECD6C-65E8-406E-8916-4842E1633583}
+	EndGlobalSection
+EndGlobal
